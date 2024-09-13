@@ -1,0 +1,18 @@
+.odd {
+background-color: hsl(350, 53%, 77%); 
+font-family:Verdana, DejaVu, sans-serif;
+}
+#OneID {
+    color: blue;
+    font-size: 36px;
+}
+.cooler {
+font-size: 24px;
+
+}
+#anotherID {
+    /*font-size:36;*/
+    background-color: lightgreen;
+    font-weight: 900;
+
+}
